@@ -1,0 +1,8 @@
+.totalAmount {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.totalAmount > p {
+  font-size: 24px;
+  font-weight: bolder;
+}
